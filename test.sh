@@ -1,0 +1,1 @@
+cd my_notes && mkdocs serve

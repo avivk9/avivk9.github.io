@@ -1,0 +1,15 @@
+site_name: Aviv's Notes
+repo_url: https://github.com/avivk9/avivk9.github.io
+
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - Computer Science:
+    - C++: 
+      - Vectors: cs/CPP/vectors.md
+    - Python:
+      - Variables: cs/Python/variables.md
